@@ -14,6 +14,8 @@ This allows factorize, reuse styles/font/border/dataformat in code and drastical
 
 These informations can even be ```static```, allowing the use of ```constants``` and ```static imports``` drastically improving code readibility.
 
+ - **Build Status:** [![Build Status](https://travis-ci.org/lesaint/poi-wrapper.svg)](https://travis-ci.org/lesaint/poi-wrapper)
+
 ## Limitations
 
 This project is available as is and does not provides an extensive support of all styles/font/border/dataformat properties.

@@ -7,6 +7,6 @@ package fr.javatronic.poiwrapper;
  */
 public interface DataFormat {
 
-    short getFormat();
+  short getFormat();
 
 }
